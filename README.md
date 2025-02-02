@@ -30,7 +30,8 @@ Uma aplicação para gerenciamento de logs, desenvolvida com Node.js, TypeScript
 Se estiver utilizando Docker, inicie o contêiner do banco de dados:
 Caso contrário, certifique-se de ter um banco de dados PostgreSQL em execução e atualize a variável DATABASE_URL no arquivo .env conforme necessário.
 
-    docker-compose up -d
+   ```bash
+   docker-compose up -d
 
 
 4. **Execute as migrações do banco de dados**:
