@@ -8,6 +8,14 @@ Uma aplicação para gerenciamento de logs, desenvolvida com Node.js, TypeScript
 - **Autenticação de Usuário**: Registro e login seguros para usuários.
 - **Integração com Banco de Dados**: Utiliza Prisma para operações com o banco de dados.
 
+## Tecnologias Utilizadas
+
+- **Node.js**
+- **TypeScript**
+- **Prisma**
+- **Express**
+- **JWT (JSON Web Token)**
+
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) v14 ou superior
